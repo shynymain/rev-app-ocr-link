@@ -1,8 +1,8 @@
-name = "rev-jravan-api"
+name = "rev-app-ocr-link"
 main = "worker.js"
 compatibility_date = "2026-04-29"
 
-# KVを使う場合はCloudflareでRESULT_DBを作成してbindingしてください。
+# KVを使う場合はCloudflareでKV namespaceを作り、以下を有効化してください。
 # [[kv_namespaces]]
 # binding = "RESULT_DB"
-# id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+# id = "ここにKV namespace id"
