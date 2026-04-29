@@ -1,0 +1,8 @@
+name = "rev-jravan-api"
+main = "worker.js"
+compatibility_date = "2026-04-29"
+
+# KVを使う場合はCloudflareでRESULT_DBを作成してbindingしてください。
+# [[kv_namespaces]]
+# binding = "RESULT_DB"
+# id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
