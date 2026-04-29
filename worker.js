@@ -194,4 +194,4 @@ export default {
       paths:["/api/health","/api/result","/api/result/import","/api/result/list","/api/roi/analyze"]
     }, 404);
   }
-};
+};　
