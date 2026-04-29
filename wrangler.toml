@@ -1,4 +1,4 @@
-name = "rev-jravan-api"
+name = "rev-app-ocr-link"
 main = "worker.js"
 compatibility_date = "2026-04-29"
 
